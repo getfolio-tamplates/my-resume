@@ -7,12 +7,13 @@
 #head{
   height:60px;
   width:100%;
-  background-color:black;
+  background-color#001621;
   position:fixed;
   top:0px;
   text-align:right;
   border-bottom:0.5px solid #a3a3a3;
   z-index:9999;
+  
 }
 #p{
   width:200px;
@@ -58,7 +59,7 @@
 #head{
   height:60px;
   width:100%;
-  background-color:black;
+  background-color#001621;
   position:fixed;
   top:0px;
   text-align:right;
