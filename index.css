@@ -24,7 +24,7 @@
   color:white;
   font-size:30px;
   border-radius:2px;
-  border:20px solid #00000000;
+  border:10px solid #00000000;
 }
 #pa{
   position:fixed;
@@ -75,6 +75,7 @@
   color:white;
   font-size:30px;
   border-radius:2px;
+border:10px solid #00000000;
 }
 #pa{
   position:fixed;
