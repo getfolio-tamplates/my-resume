@@ -99,6 +99,9 @@ border:20px solid #00000000;
   box-shadow:0 4px 8px 1px gray;
   border-bottom:50px solid black;
   border-radius:15px;
-  display:inline-block;
+  display:table-cell;
+}
+#table{
+  display:table;
 }
 }
