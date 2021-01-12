@@ -40,7 +40,7 @@
 @media only screen and (min-width:1001) {
   
   #c{
-    transform:translateY(-50px);
+    height:60%;
   }
   #m{
     display:none;
