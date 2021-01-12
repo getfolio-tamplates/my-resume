@@ -49,7 +49,10 @@
   border-bottom:50px solid black;
   border-radius:15px;
 }
-
+#mas{
+  position:fixed;
+  bottom:10px;
+}
 }
 @media only screen and (min-width: 1001px) {
 *{
@@ -107,14 +110,7 @@ border:20px solid #00000000;
   display:table;
 }
 #mas{
-  background-color:#171717;
-  border-radius:50%;
-  font-size:40px;
   position:fixed;
   bottom:10px;
-}
-#mas1{
-  color:white;
-  font-size:40px;
 }
 }
