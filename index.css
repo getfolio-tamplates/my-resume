@@ -49,6 +49,9 @@
   border-bottom:50px solid black;
   border-radius:15px;
 }
+#mas{
+  background-color:#171717;
+}
 }
 @media only screen and (min-width: 1001px) {
 *{
