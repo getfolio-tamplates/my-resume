@@ -51,7 +51,7 @@
 }
 #mas{
   position:fixed;
-  bottom:70px;
+  bottom:10px;
 }
 }
 @media only screen and (min-width: 1001px) {
@@ -111,6 +111,6 @@ border:20px solid #00000000;
 }
 #mas{
   position:fixed;
-  bottom:60px;
+  bottom:10px;
 }
 }
