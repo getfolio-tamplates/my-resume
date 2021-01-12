@@ -116,4 +116,15 @@ border:20px solid #00000000;
 #table{
   display:table;
 }
+#mas{
+  background-color:#171717;
+  border-radius:50%;
+  font-size:40px;
+  position:fixed;
+  bottom:10px;
+}
+#mas1{
+  color:white;
+  font-size:40px;
+}
 }
